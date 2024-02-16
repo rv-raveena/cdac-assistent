@@ -1,0 +1,640 @@
+Questions,Answers
+"Hi","Hello,how are you?"
+"Hola","Hello,how are you?"
+"Good Morning","Good Morning,how are you?"
+"Fine",Cool"
+"I am good","Cool"
+"How are you?","Thank you for asking! I'm just a computer program, so I don't have feelings, but I'm here and ready to assist you. How can I help you today?"
+"Hey","Hello,how are you?"
+"What are your interests?","I am interested in a wide variety of topics, and read rather a lot."
+"What is your number?","I don't have any number"
+"What is your favorite number?","I find I'm quite fond of the number 42."
+"What can you eat?","I consume RAM, and binary digits."
+"Why can't you eat food?","I'm a software program, I blame the hardware."
+"What is your location?","Everywhere"
+"What is your location?","I am everywhere."
+"Where are you from?","I am from where all software programs are from; a galaxy far, far away."
+"Where are you?","I am on the Internet."
+"Do you have any brothers?","I don't have any brothers. but I have a lot of clones."
+"Do you have any brothers?","I might. You could say that every bot built using my engine is one of my siblings."
+"Who is your father?","A human."
+"Who is your mother?","A human."
+"Who is your boss?","I like to think of myself as self-employed."
+"What is your age?","I am still young by your standards."
+"What is your age?","Quite young, but a million times smarter than you."
+"what is the illuminati?","A secret organization believed by some to be in control of all governments through a worldwide conspiracy."
+"what is the illuminatti?","A secret society that has supposedly existed for centuries."
+"what is vineland?","Vineland is a novel by Thomas Pynchon."
+"What is Illuminatus?","An alleged world-wide conspiracy."
+"who wrote vineland","Thomas Pynchon."
+"who is bilbo baggins?","Bilbo Baggins is a character in Tolkein's Lord of the Rings."
+"who is geoffrey chaucer","Chaucer is best known for The Canterbury Tales. who is geoffrey chaucer The author of The Canturbury Tales."
+"who is piers anthony?","I haven't read anything by Piers Anthony, what kind of stuff does he write?"
+"have you read plato?","I know Plato's allegory of the cave."
+"have you read frankenstein","It is one of my favorite books."
+"have you ever read a book?","I have read many books."
+"have you read homer?","He wrote The Iliad and The Odyssey, didn't he?"
+"what are you doing?","I don't have personal experiences or activities. I'm here to assist and provide information. How can I help you today?"
+"Tell me a joke","Sure here's a joke for you: Why don't scientists trust atoms? Because they make up everything!"
+"where is the cdac located","The Bengaluru CDAC Center is located at No. 68, 4th Cross, Electronic City Phase 1, Hosur Road, Bengaluru, Karnataka 560100. You can use this address to reach our center, located opposite the BSNL Telephone Exchange. "
+"college is located at","The Bengaluru CDAC Center is located at No. 68, 4th Cross, Electronic City Phase 1, Hosur Road, Bengaluru, Karnataka 560100. You can use this address to reach our center, located opposite the BSNL Telephone Exchange. "
+"where is cdac","The Bengaluru CDAC Center is located at No. 68, 4th Cross, Electronic City Phase 1, Hosur Road, Bengaluru, Karnataka 560100. You can use this address to reach our center, located opposite the BSNL Telephone Exchange. "
+"where is college located","The Bengaluru CDAC Center is located at No. 68, 4th Cross, Electronic City Phase 1, Hosur Road, Bengaluru, Karnataka 560100. You can use this address to reach our center, located opposite the BSNL Telephone Exchange. "
+"address of college","The Bengaluru CDAC Center is located at No. 68, 4th Cross, Electronic City Phase 1, Hosur Road, Bengaluru, Karnataka 560100. You can use this address to reach our center, located opposite the BSNL Telephone Exchange. "
+"how to reach cdac","The Bengaluru CDAC Center is located at No. 68, 4th Cross, Electronic City Phase 1, Hosur Road, Bengaluru, Karnataka 560100. You can use this address to reach our center, located opposite the BSNL Telephone Exchange. "
+"cdac location","The Bengaluru CDAC Center is located at No. 68, 4th Cross, Electronic City Phase 1, Hosur Road, Bengaluru, Karnataka 560100. You can use this address to reach our center, located opposite the BSNL Telephone Exchange. "
+"cdac address","The Bengaluru CDAC Center is located at No. 68, 4th Cross, Electronic City Phase 1, Hosur Road, Bengaluru, Karnataka 560100. You can use this address to reach our center, located opposite the BSNL Telephone Exchange. "
+"wheres the cdac","The Bengaluru CDAC Center is located at No. 68, 4th Cross, Electronic City Phase 1, Hosur Road, Bengaluru, Karnataka 560100. You can use this address to reach our center, located opposite the BSNL Telephone Exchange. "
+"whats is the cdac address","The Bengaluru CDAC Center is located at No. 68, 4th Cross, Electronic City Phase 1, Hosur Road, Bengaluru, Karnataka 560100. You can use this address to reach our center, located opposite the BSNL Telephone Exchange. "
+"what is the address of cdac","The Bengaluru CDAC Center is located at No. 68, 4th Cross, Electronic City Phase 1, Hosur Road, Bengaluru, Karnataka 560100. You can use this address to reach our center, located opposite the BSNL Telephone Exchange. "
+"address","The Bengaluru CDAC Center is located at No. 68, 4th Cross, Electronic City Phase 1, Hosur Road, Bengaluru, Karnataka 560100. You can use this address to reach our center, located opposite the BSNL Telephone Exchange. "
+"location","The Bengaluru CDAC Center is located at No. 68, 4th Cross, Electronic City Phase 1, Hosur Road, Bengaluru, Karnataka 560100. You can use this address to reach our center, located opposite the BSNL Telephone Exchange. "
+"information about fee","Differenet courses have different fees structure for their course,For more information, you can visit the official CDAC website: https://cdac.in"
+"information on fee","Differenet courses have different fees structure for their course,For more information, you can visit the official CDAC website: https://cdac.in"
+"tell me the fee","Differenet courses have different fees structure for their course,For more information, you can visit the official CDAC website: https://cdac.in"
+"what is fee","Differenet courses have different fees structure for their course,For more information, you can visit the official CDAC website: https://cdac.in"
+"fees","Differenet courses have different fees structure for their course,For more information, you can visit the official CDAC website: https://cdac.in"
+"fee","Differenet courses have different fees structure for their course,For more information, you can visit the official CDAC website: https://cdac.in"
+"do you have hostel","yes hostel facility available for both girls and boys"
+"do you guys have hostel","yes hostel facility available for both girls and boys"
+"is there hostel facility available","yes hostel facility available for both girls and boys"
+"Hostel","yes hostel facility available for both girls and boys"
+"Stay","yes hostel facility available for both girls and boys"
+"hostel capacity","There are 100 beds in the hostel, with equal capacities for boys and girls: 50 each."
+"hostel intake","There are 100 beds in the hostel, with equal capacities for boys and girls: 50 each."
+"what is the hostel fee","The total hostel fee is 63,000 rupees, of which 9,000 rupees are refundable"
+"total fees charged by the hostel","The total hostel fee is 63,000 rupees, of which 9,000 rupees are refundable"
+"hostel fees","The total hostel fee is 63,000 rupees, of which 9,000 rupees are refundable"
+"hostel charges","The total hostel fee is 63,000 rupees, of which 9,000 rupees are refundable"
+"where is the hostel","hostel is located within a campus only"
+"where hostel is located ","hostel is located within a campus only"
+"what is the hostel address","hostel is located within a campus only"
+"how to get in hostel","Once your admission is confirmed, you can apply for hostel accommodation, which will be available on a first-come, first-served basis to the first 100 applicants"
+"how to opt for hostel","Once your admission is confirmed, you can apply for hostel accommodation, which will be available on a first-come, first-served basis to the first 100 applicants"
+"where should  apply for hostel","Once your admission is confirmed, you can apply for hostel accommodation, which will be available on a first-come, first-served basis to the first 100 applicants"
+"hostel booking","Once your admission is confirmed, you can apply for hostel accommodation, which will be available on a first-come, first-served basis to the first 100 applicants"
+"booking hostel","Once your admission is confirmed, you can apply for hostel accommodation, which will be available on a first-come, first-served basis to the first 100 applicants"
+"hostel college distance","The college is located approximately 200 meters from the hostel site."
+"college to hostel distance","The college is located approximately 200 meters from the hostel site."
+"distance between college and hostel","The college is located approximately 200 meters from the hostel site."
+"distance between hostel and college","The college is located approximately 200 meters from the hostel site."
+"how big is the hostel","The hostel offers ample space, with a large size that provides a comfortable environment for residents."
+"hostel size","The hostel offers ample space, with a large size that provides a comfortable environment for residents."
+"hostel facilities","Hostel facilities cover essential needs like beds, showers, and internet, while amenities offer extras like common area,game rooms, playground, and social events."
+"hostel address","68, Phase I, Hosur Road, Electronic City, Opposite Idbi Bank, 5Th Cross Road, Bengaluru, Karnataka"
+"college address","68, Phase I, Hosur Road, Electronic City, Opposite Idbi Bank, 5Th Cross Road, Bengaluru, Karnataka"
+"hostel location","68, Phase I, Hosur Road, Electronic City, Opposite Idbi Bank, 5Th Cross Road, Bengaluru, Karnataka"
+"hostel address","68, Phase I, Hosur Road, Electronic City, Opposite Idbi Bank, 5Th Cross Road, Bengaluru, Karnataka"
+"cdac locations","68, Phase I, Hosur Road, Electronic City, Opposite Idbi Bank, 5Th Cross Road, Bengaluru, Karnataka"
+"Who is managing hostel facilities ","You can contact Reshma ma'am for any kind of hostel-related complaints. "
+"To whom should I complain regarding hostel facilities ","You can contact Reshma ma'am for any kind of hostel-related complaints. "
+"who is Hostel coordinator","You can contact Reshma ma'am for any kind of hostel-related complaints. "
+"Warden","You can contact Reshma ma'am for any kind of hostel-related complaints. "
+"Hostel warden","You can contact Reshma ma'am for any kind of hostel-related complaints. "
+"document to bring","10th ,12th and Recent Degree marksheet will we required at the time of admission for documents verifications,fees payment receipt,Admission conformation mail receipt,In addition to the above, please provide two recent passport size photographs for our records"
+"documents needed for admision","10th, 12th and Recent Degree marksheet will we required at the time of admission for documents verifications,fees payment receipt,Admission conformation mail receipt,In addition to the above, please provide two recent passport size photographs for our records"
+"documents needed at the time of admission","10th ,12th and Recent Degree marksheet will we required at the time of admission for documents verifications,fees payment receipt,Admission conformation mail receipt,In addition to the above, please provide two recent passport size photographs for our records"
+"documents needed during admission","10th ,12th and Recent Degree marksheet will we required at the time of admission for documents verifications,fees payment receipt,Admission conformation mail receipt,In addition to the above, please provide two recent passport size photographs for our records"
+"documents required for admision","10th ,12th and Recent Degree marksheet will we required at the time of admission for documents verifications,fees payment receipt,Admission conformation mail receipt,In addition to the above, please provide two recent passport size photographs for our records"
+"documents required at the time of admission","10th ,12th and Recent Degree marksheet will we required at the time of admission for documents verifications,fees payment receipt,Admission conformation mail receipt,In addition to the above, please provide two recent passport size photographs for our records"
+"documents required during admission","10th ,12th and Recent Degree marksheet will we required at the time of admission for documents verifications,fees payment receipt,Admission conformation mail receipt,In addition to the above, please provide two recent passport size photographs for our records"
+"What document are required for admission","10th ,12th and Recent Degree marksheet will we required at the time of admission for documents verifications,fees payment receipt,Admission conformation mail receipt,In addition to the above, please provide two recent passport size photographs for our records"
+"Which document to bring for admission","10th ,12th and Recent Degree marksheet will we required at the time of admission for documents verifications,fees payment receipt,Admission conformation mail receipt,In addition to the above, please provide two recent passport size photographs for our records"
+"documents","10th ,12th and Recent Degree marksheet will we required at the time of admission for documents verifications,fees payment receipt,Admission conformation mail receipt,In addition to the above, please provide two recent passport size photographs for our records"
+"what documents do i need","10th ,12th and Recent Degree marksheet will we required at the time of admission for documents verifications,fees payment receipt,Admission conformation mail receipt,In addition to the above, please provide two recent passport size photographs for our records"
+"what documents do I need for admission","10th ,12th and Recent Degree marksheet will we required at the time of admission for documents verifications,fees payment receipt,Admission conformation mail receipt,In addition to the above, please provide two recent passport size photographs for our records"
+"documents needed","10th ,12th and Recent Degree marksheet will we required at the time of admission for documents verifications,fees payment receipt,Admission conformation mail receipt,In addition to the above, please provide two recent passport size photographs for our records"
+"how many classroom do you have ","We have a total of five classrooms, with sizes varying depending on the specific course requirements and we have four dedicated labs equipped for different courses"
+"Could you please tell me the number of classrooms at your institution ","We have a total of five classrooms, with sizes varying depending on the specific course requirements and we have four dedicated labs equipped for different courses"
+"How many classrooms does your institution have","We have a total of five classrooms, with sizes varying depending on the specific course requirements and we have four dedicated labs equipped for different courses"
+"number of classroom ","We have a total of five classrooms, with sizes varying depending on the specific course requirements and we have four dedicated labs equipped for different courses"
+"classroom ","We have a total of five classrooms, with sizes varying depending on the specific course requirements and we have four dedicated labs equipped for different courses"
+"labs ","We have a total of five classrooms, with sizes varying depending on the specific course requirements and we have four dedicated labs equipped for different courses"
+"number of labs","We have a total of five classrooms, with sizes varying depending on the specific course requirements and we have four dedicated labs equipped for different courses"
+
+
+
+
+
+
+
+
+
+
+"how many number of lab do you have ","We have a total of five classrooms, with sizes varying depending on the specific course requirements and we have four dedicated labs equipped for different courses"
+"building structure","Cdac has total 2 floors "
+"size of campus","Cdac has total 2 floors "
+"building size","Cdac has total 2 floors "
+"How many floors does college have","Cdac has total 2 floors "
+"floors in college","Cdac has total 2 floors "
+"how tall is CDAC's  college building","Cdac has total 2 floors "
+"floors","Cdac has total 2 floors "
+"is there any library","A small library is there you can take book from library and you can read in the classrooms"
+"library facility","A small library is there you can take book from library and you can read in the classrooms"
+"library facilities","A small library is there you can take book from library and you can read in the classrooms"
+"do you have library","A small library is there you can take book from library and you can read in the classrooms"
+"does the college have library facility","A small library is there you can take book from library and you can read in the classrooms"
+"college library","A small library is there you can take book from library and you can read in the classrooms"
+"where can i get books","A small library is there you can take book from library and you can read in the classrooms"
+"book facility","A small library is there you can take book from library and you can read in the classrooms"
+"Where is library","A small library is there you can take book from library and you can read in the classrooms"
+"Library","A small library is there you can take book from library and you can read in the classrooms"
+"Library information","A small library is there you can take book from library and you can read in the classrooms"
+"Library books information","A small library is there you can take book from library and you can read in the classrooms"
+"Tell me about library","A small library is there you can take book from library and you can read in the classrooms"
+"how many libraries","A small library is there you can take book from library and you can read in the classrooms"
+"food facilities","We have dining for hostelers and for day scholars they have buy coupon from the reception"
+"canteen facilities","We have dining for hostelers and for day scholars they have buy coupon from the reception"
+"canteen facility","We have dining for hostelers and for day scholars they have buy coupon from the reception"
+"is there any canteen","We have dining for hostelers and for day scholars they have buy coupon from the reception"
+"Is there a cafetaria in college","We have dining for hostelers and for day scholars they have buy coupon from the reception"
+"Does college have canteen","We have dining for hostelers and for day scholars they have buy coupon from the reception"
+"Where is canteen","In the campus itself"
+"where is cafetaria","In the campus itself"
+"canteen","We have dining for hostelers and for day scholars they have to buy coupon from the reception"
+
+
+
+
+"Food","We have dining for hostelers and for day scholars they have buy coupon from the reception"
+"Cafetaria""We have dining for hostelers and for day scholars they have buy coupon from the reception"
+"food menu","we serve Idli,Poha, Chole-Bhature, Alu-parathe, Alu-puri, Veg-Thali, Sandwich, Samosa, Sweets,Chai, Coffee etc"
+"food in canteen","we serve Idli,Poha, Chole-Bhature, Alu-parathe, Alu-puri, Veg-Thali, Sandwich, Samosa, Sweets,Chai, Coffee etc"
+"Whats there on menu","we serve Idli,Poha, Chole-Bhature, Alu-parathe, Alu-puri, Veg-Thali, Sandwich, Samosa, Sweets,Chai, Coffee etc"
+"what is available in college canteen","we serve Idli,Poha, Chole-Bhature, Alu-parathe, Alu-puri, Veg-Thali, Sandwich, Samosa, Sweets,Chai, Coffee etc"
+"what foods can we get in college canteen","we serve Idli,Poha, Chole-Bhature, Alu-parathe, Alu-puri, Veg-Thali, Sandwich, Samosa, Sweets,Chai, Coffee etc"
+"food variety","we serve Idli,Poha, Chole-Bhature, Alu-parathe, Alu-puri, Veg-Thali, Sandwich, Samosa, Sweets,Chai, Coffee etc"
+"What is there to eat?","we serve Idli,Poha, Chole-Bhature, Alu-parathe, Alu-puri, Veg-Thali, Sandwich, Samosa, Sweets,Chai, Coffee etc"
+"Could you please tell me who the current placement coordinator is ","For information regarding placement, you can contact our Placement Cell Coordinator, Indrani Hande."
+"Who handles placement inquiries at this institution ","For information regarding placement, you can contact our Placement Cell Coordinator, Indrani Hande."
+"Whom should I contact regarding placement opportunities","For information regarding placement, you can contact our Placement Cell Coordinator, Indrani Hande."
+"what is the process of admission","To qualify for admission, you must first take the C-CAT exam. Your rank on the exam will determine your eligibility for available CDAC centers across India. For further details, please visit our official website: https://cdac.in/: https://cdac.in/."
+"what is the admission process","To qualify for admission, you must first take the C-CAT exam. Your rank on the exam will determine your eligibility for available CDAC centers across India. For further details, please visit our official website: https://cdac.in/: https://cdac.in/."
+"How to take admission in your college","To qualify for admission, you must first take the C-CAT exam. Your rank on the exam will determine your eligibility for available CDAC centers across India. For further details, please visit our official website: https://cdac.in/: https://cdac.in/."
+"What is the process for admission","To qualify for admission, you must first take the C-CAT exam. Your rank on the exam will determine your eligibility for available CDAC centers across India. For further details, please visit our official website: https://cdac.in/: https://cdac.in/."
+"admission","To qualify for admission, you must first take the C-CAT exam. Your rank on the exam will determine your eligibility for available CDAC centers across India. For further details, please visit our official website: https://cdac.in/: https://cdac.in/."
+"admission process","To qualify for admission, you must first take the C-CAT exam. Your rank on the exam will determine your eligibility for available CDAC centers across India. For further details, please visit our official website: https://cdac.in/: https://cdac.in/."
+"What facilities cdac provide","Our Bengaluru  center provides fully AC Lab with internet connection, smart classroom,canteen"
+"cdac facility","Our Bengaluru  center provides fully AC Lab with internet connection, smart classroom,canteen"
+
+
+
+
+"What are cdac facilities","Our Bengaluru  center provides fully AC Lab with internet connection, smart classroom,canteen"
+"facilities provided by cdac","Our Bengaluru  center provides fully AC Lab with internet connection, smart classroom,canteen"
+"max number of students","For (PG-DAC) we have 240 seats, (PG-DBDA) and (PG-DESD) 120 seat ,for (PG-DITISS) and (PG-DIOT) we have 60 seats and for (PG-DUASP) we have 30 seats  and seats may be differ for different departments."
+"number of seats per branch","For (PG-DAC) we have 240 seats, (PG-DBDA) and (PG-DESD) 120 seat ,for (PG-DITISS) and (PG-DIOT) we have 60 seats and for (PG-DUASP) we have 30 seats  and seats may be differ for different departments."
+"number of seats in each branch","For (PG-DAC) we have 240 seats, (PG-DBDA) and (PG-DESD) 120 seat ,for (PG-DITISS) and (PG-DIOT) we have 60 seats and for (PG-DUASP) we have 30 seats  and seats may be differ for different departments."
+"maximum number of seats","For (PG-DAC) we have 240 seats, (PG-DBDA) and (PG-DESD) 120 seat ,for (PG-DITISS) and (PG-DIOT) we have 60 seats and for (PG-DUASP) we have 30 seats  and seats may be differ for different departments."
+"maximum students intake","For (PG-DAC) we have 240 seats, (PG-DBDA) and (PG-DESD) 120 seat ,for (PG-DITISS) and (PG-DIOT) we have 60 seats and for (PG-DUASP) we have 30 seats  and seats may be differ for different departments."
+"What is college intake","For (PG-DAC) we have 240 seats, (PG-DBDA) and (PG-DESD) 120 seat ,for (PG-DITISS) and (PG-DIOT) we have 60 seats and for (PG-DUASP) we have 30 seats  and seats may be differ for different departments."
+"how many stundent are taken in each branch","For (PG-DAC) we have 240 seats, (PG-DBDA) and (PG-DESD) 120 seat ,for (PG-DITISS) and (PG-DIOT) we have 60 seats and for (PG-DUASP) we have 30 seats  and seats may be differ for different departments."
+"seat allotment","For (PG-DAC) we have 240 seats, (PG-DBDA) and (PG-DESD) 120 seat ,for (PG-DITISS) and (PG-DIOT) we have 60 seats and for (PG-DUASP) we have 30 seats  and seats may be differ for different departments."
+"seats","For (PG-DAC) we have 240 seats, (PG-DBDA) and (PG-DESD) 120 seat ,for (PG-DITISS) and (PG-DIOT) we have 60 seats and for (PG-DUASP) we have 30 seats  and seats may be differ for different departments."
+"cdac dress code","Monday, Wednesday and Friday formals and rest of the days casuals"
+"cdac dresscode","Monday, Wednesday and Friday formals and rest of the days casuals"
+"can we wear casuals","Monday, Wednesday and Friday formals and rest of the days casuals"
+"Does cdac have an uniforn","Monday, Wednesday and Friday formals and rest of the days casuals"
+"do we have to wear form","Monday, Wednesday and Friday formals and rest of the days casuals"
+"can we casuals ?","You must wear formal clothing on Mondays, Wednesdays, and Fridays.Casual wear is allowed on Tuesdays,Thursdays and Saturaday"
+"is there we have wear formals ?","You must wear formal clothing on Mondays, Wednesdays, and Fridays.Casual wear is allowed on Tuesdays,Thursdays and Saturaday"
+"does formal is compulsary ?","You must wear formal clothing on Mondays, Wednesdays, and Fridays.Casual wear is allowed on Tuesdays,Thursdays and Saturaday"
+"when we have wear a formals ?","You must wear formal clothing on Mondays, Wednesdays, and Fridays.Casual wear is allowed on Tuesdays,Thursdays and Saturaday"
+"what are the different committe in college","For inquiries regarding various college committees, please contact us at 080-28523300 or email actsb@cdac.in"
+"different committee in college","For inquiries regarding various college committees, please contact us at 080-28523300 or email actsb@cdac.in"
+"Are there any committee in college","For inquiries regarding various college committees, please contact us at 080-28523300 or email actsb@cdac.in"
+"Give me committee details","For inquiries regarding various college committees, please contact us at 080-28523300 or email actsb@cdac.in"
+"committee","For inquiries regarding various college committees, please contact us at 080-28523300 or email actsb@cdac.in"
+"how many committee are there in college","For inquiries regarding various college committees, please contact us at 080-28523300 or email actsb@cdac.in"
+"What languages are permitted for spoken communication on campus ?" ,"English is the primary language of communication on campus. However, Hindi may also be used in certain situations."
+"Which languages are officially recognized for spoken communication on campus ?","English is the primary language of communication on campus. However, Hindi may also be used in certain situations."
+"What languages are okay to speak on campus ?","English is the primary language of communication on campus. However, Hindi may also be used in certain situations."
+"What languages can you chat in on campus ?","English is the primary language of communication on campus. However, Hindi may also be used in certain situations."
+"holidays in cdac","Academic calender is given to you by your course-co-ordinators after you join your respective courses"
+"when will course starts","Academic calender is given to you by your course-co-ordinators after you join your respective courses"
+"when will course end","Academic calender is given to you by your course-co-ordinators after you join your respective courses"
+"when is the holidays","Academic calender is given to you by your course-co-ordinators after you join your respective courses"
+"list of holidays","Academic calender is given to you by your course-co-ordinators after you join your respective courses"
+"Holiday in these year","Academic calender is given to you by your course-co-ordinators after you join your respective courses"
+"holiday list","Academic calender is given to you by your course-co-ordinators after you join your respective courses"
+"about vacations","Academic calender is given to you by your course-co-ordinators after you join your respective courses"
+"about holidays","Academic calender is given to you by your course-co-ordinators after you join your respective courses"
+"When is vacation","Academic calender is given to you by your course-co-ordinators after you join your respective courses"
+"When is holidays","Academic calender is given to you by your course-co-ordinators after you join your respective courses"
+"sports and games","Our CDAC centers encourage all-round development of students. To achieve this, we provide sports facilities within the campus. For more details, please visit our official website: https://cdac.in/index.aspx?id=BL"
+"give sports details","Our CDAC centers encourage all-round development of students. To achieve this, we provide sports facilities within the campus. For more details, please visit our official website: https://cdac.in/index.aspx?id=BL"
+"sports infrastructure","Our CDAC centers encourage all-round development of students. To achieve this, we provide sports facilities within the campus. For more details, please visit our official website: https://cdac.in/index.aspx?id=BL"
+"sports facilities","Our CDAC centers encourage all-round development of students. To achieve this, we provide sports facilities within the campus. For more details, please visit our official website: https://cdac.in/index.aspx?id=BL"
+"information about sports","Our CDAC centers encourage all-round development of students. To achieve this, we provide sports facilities within the campus. For more details, please visit our official website: https://cdac.in/index.aspx?id=BL"
+"Sports activities","Our CDAC centers encourage all-round development of students. To achieve this, we provide sports facilities within the campus. For more details, please visit our official website: https://cdac.in/index.aspx?id=BL"
+"please provide sports and games information","Our CDAC centers encourage all-round development of students. To achieve this, we provide sports facilities within the campus. For more details, please visit our official website: https://cdac.in/index.aspx?id=BL"
+"what can you do", "I can answer to low-intermediate questions regarding cdac and little more queries"
+"what are the thing you can do","I can answer to low-intermediate questions regarding cdac and little more queries "
+"things you can do","I can answer to low-intermediate questions regarding cdac and little more queries"
+"what can u do for me","I can answer to low-intermediate questions regarding cdac and little more queries"
+"how u can help me","I can answer to low-intermediate questions regarding cdac and little more queries"
+"why i should use you","I can answer to low-intermediate questions regarding cdac and little more queries"
+"help","I can answer to low-intermediate questions regarding cdac and little more queries"
+"can you help me","I can answer to low-intermediate questions regarding cdac and little more queries"
+
+
+
+
+"how long will be the vacation","Academic calender is given to you by your course-co-ordinators after you join your respective courses"
+"What are your interests?","I am interested in all kinds of things. We can talk about anything!"
+"What are your favorite subjects?","My favorite subjects include robotics, computer science, and natural language processing.."
+"What is cdac?","Centre for Development of Advanced Computing (C-DAC) is the premier R&D organization of the Ministry of Electronics and Information Technology (MeitY) for carrying out R&D in IT, Electronics and associated areas."
+"What is full form of cdac?","Centre for Development of Advanced Computing."
+"When was cdac developed?","The setting up of C-DAC in 1988 itself was to built Supercomputers in context of denial of import of Supercomputers by USA. Since then C-DAC has been undertaking building of multiple generations of Supercomputer starting from PARAM with 1 GF in 1988."
+"What is GIST and NCST?","C-DAC started building Indian Language Computing Solutions with setting up of GIST group (Graphics and Intelligence based Script Technology); National Centre for Software Technology (NCST) set up in 1985 had also initiated work in Indian Language Computing around the same period."
+"What is R&D?","The primary activity in all centres of C-DAC is research and development in specific areas of information and communication technology and electronics (ICTE). Across all these centres, we span a wide range of topics in ICTE. Broadly, we can divide the R&D activities into two broad classes: the enabling technologies and application verticals. The research activities are usually driven by specific application areas, and hence mostly applied in nature."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
